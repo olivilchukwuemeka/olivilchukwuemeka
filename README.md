@@ -5,16 +5,12 @@
 
 This is Olivil Chukwuemeka
 
-
 I am a Data Analyst
 
+I love to clean, Tranform and Analyze Data for buisness insights
 
-Call me a data bender
+Iam open for Data Analyst Rolls
 
-
-
-
-🌱i love to clean, Tranform and Analyze Data for buisness insights
    
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
