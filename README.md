@@ -2,9 +2,18 @@
 
  
  I LOVE DATA
+
 This is Olivil Chukwuemeka
+
+
 I am a Data Analyst
+
+
 Call me a data bender
+
+
+
+
 🌱i love to clean, Tranform and Analyze Data for buisness insights
    
 - 👀 I’m interested in ...
