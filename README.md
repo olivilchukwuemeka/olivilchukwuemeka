@@ -15,7 +15,8 @@ Iam open for Data Analyst Rolls
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:Linkedinhttps://www.linkedin.com/in/olivil-onyinye-298725297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 📫 How to reach me:www.linkedin.com/in/
+olivil-chukwuemeka
 - 😄  She
 - ⚡ Fun fact: 
 <!---
