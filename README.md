@@ -3,7 +3,7 @@
  
  I LOVE DATA
 
-This is Olivil Chukwuemeka
+## This is Olivil Chukwuemeka
 
 I am a Data Analyst/ financial advisor
 
@@ -15,7 +15,7 @@ Iam open for Data Analyst Rolls
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:www.linkedin.com/in/
+- 📫## How to reach me:www.linkedin.com/in/
 olivil-chukwuemeka
 
 Email: olivil247@gmail.com
