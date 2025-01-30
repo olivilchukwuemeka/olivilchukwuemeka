@@ -17,6 +17,7 @@ Iam open for Data Analyst Rolls
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:www.linkedin.com/in/
 olivil-chukwuemeka
+
 Email: olivil247@gmail.com
 - 😄  She
 - ⚡ Fun fact: 
