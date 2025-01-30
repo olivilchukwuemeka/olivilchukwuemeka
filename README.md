@@ -5,7 +5,7 @@
 
 This is Olivil Chukwuemeka
 
-I am a Data Analyst
+I am a Data Analyst/ financial advisor
 
 I love to clean, Tranform and Analyze Data for buisness insights
 
