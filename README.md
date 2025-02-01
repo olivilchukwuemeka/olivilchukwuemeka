@@ -9,16 +9,17 @@
 ### 💼 Current Role: Financial Advisor
 
 
-###🔨 Expertise: Data Analysis, Supportive Data Visualization
+###  🔨 Expertise: Data Analysis, Supportive Data Visualization
 
 
 
-###🌻 Currently Learning [Python/Table/SQL]
+###  🌻 Currently Learning [Python/Table/SQL]
 Cyber Security.
 
 
 
-#Skills
+# Skills
+
 powerBI
 Excel
 
@@ -33,6 +34,7 @@ olivil247@gmail.com
 
 ## Fun Facts
 🏂 I enjoy reading, singing, cooking and traveling
+
 🛠️ I am passionate to learn other tech innovations.
 
 <!---
