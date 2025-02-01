@@ -13,7 +13,10 @@
 
 
 
-###  🌻 Currently Learning [Python/Table/SQL]
+###  🌻 Currently Learning
+
+SQL/Tablue/Python
+
 Cyber Security.
 
 
