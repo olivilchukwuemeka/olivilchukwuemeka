@@ -1,16 +1,40 @@
-#  Hi I'm @OlivilOnyinye
+#  Hi I'm @Olivil Chukwuemeka 👋
 
 
 ### I am a Data Analyst.My role involves gathering Data from different source, cleaning transforming and creating visualization to uncover insights that helps business to make informed decisions.
 
+## About Me
 
 
-   
+### 💼 Current Role: Financial Advisor
+
+
+###🔨 Expertise: Data Analysis, Supportive Data Visualization
+
+
+
+###🌻 Currently Learning [Python/Table/SQL]
+Cyber Security.
+
+
+
+#Skills
+powerBI
+Excel
+
+
+
 ## How to reach me:
 
 https://www.linkedin.com/in/
 
 olivil247@gmail.com
+
+
+## Fun Facts
+🏂 I enjoy reading, singing, cooking and traveling
+🛠️ I am passionate to learn other tech innovations.
+
 <!---
 olivilchukwuemeka/olivilchukwuemeka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
