@@ -1,5 +1,4 @@
-#  Hi I'm 
-@Olivilchukwuemeka
+#  Hi I'm @OlivilOnyinye
 
 
 ### I am a Data Analyst.My role involves gathering Data from different source, cleaning transforming and creating visualization to uncover insights that helps business to make informed decisions.
