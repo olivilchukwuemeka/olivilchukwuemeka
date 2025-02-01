@@ -24,6 +24,7 @@ Cyber Security.
 # Skills
 
 powerBI
+
 Excel
 
 
