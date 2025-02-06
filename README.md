@@ -31,9 +31,11 @@ Excel
 
 ## How to reach me:
 
+
+Linked:
 https://www.linkedin.com/in/olivil-chukwuemeka-298725297
 
-olivil247@gmail.com
+Gmail:olivil247@gmail.com
 
 
 ## Fun Facts
