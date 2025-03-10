@@ -15,7 +15,7 @@
 
 ###  🌻 Currently Learning
 
-Tableau/Python
+Python/R
 
 Cyber Security.
 
