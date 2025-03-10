@@ -1,7 +1,7 @@
 #  Hi I'm @Olivil Chukwuemeka 👋
 
 
-### I am a Data Analyst.My role involves gathering Data from different source, cleaning transforming and creating visualization to uncover insights that helps business to make informed decisions.
+### I am a Data Analyst.My role involves gathering Data from different source, cleaning transforming and creating visualization to uncover insights, query datasets to helps businesses make  informed decisions.
 
 ## About Me
 
@@ -15,7 +15,7 @@
 
 ###  🌻 Currently Learning
 
-SQL/Tablue/Python
+Tableau/Python
 
 Cyber Security.
 
@@ -26,6 +26,10 @@ Cyber Security.
 powerBI
 
 Excel
+
+Tableau
+
+SQL
 
 
 
