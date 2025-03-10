@@ -43,7 +43,7 @@ Gmail:olivil247@gmail.com
 
 
 ## Fun Facts
-🏂 I enjoy reading, singing, cooking and traveling
+🏂 I enjoy writing codes,reading,  cooking and traveling
 
 🛠️ I am passionate to learn other tech innovations.
 
