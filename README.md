@@ -15,8 +15,6 @@
 
 ###  🌻 Currently Learning
 
-Python/R
-
 Cyber Security.
 
 
@@ -30,6 +28,8 @@ Excel
 Tableau
 
 SQL
+
+Python
 
 
 
