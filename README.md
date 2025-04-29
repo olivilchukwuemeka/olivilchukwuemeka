@@ -1,7 +1,7 @@
 #  Hi I'm @Olivil Chukwuemeka 👋
 
 
-### I am a Data Analyst.My role involves gathering Data from different source, cleaning transforming and creating visualization to uncover insights, query datasets to helps businesses make  informed decisions.
+### I am a Data Analyst.My role involves gathering Data from different source, cleaning transforming and creating visualization to uncover insights, query datasets to make finding that helps businesses make  informed decisions.
 
 ## About Me
 
