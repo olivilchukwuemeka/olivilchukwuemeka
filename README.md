@@ -6,7 +6,7 @@
 ## About Me
 
 
-### 💼 Current Role: Financial Advisor
+### 💼 Current Role: Financial Advisor/Data Analyst
 
 
 ###  🔨 Expertise: Data Analysis, Supportive Data Visualization
